@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string-array name="Deposit">
+        <item>Deposit</item>
+        <item>Withdraw</item>
+        <item>Transfer</item>
+    </string-array>
+</resources>
